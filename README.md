@@ -16,4 +16,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
 </p>
 
-![Snake animation](https://github.com/myevvy/myevvy/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/myevvy/myevvy/main/dist/github-contribution-grid-snake.svg" alt="github-snake">
+</p>
