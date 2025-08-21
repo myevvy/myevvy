@@ -17,6 +17,6 @@
 </p>
 
 <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/myevvy/myevvy/output/github-contribution-grid-snake.svg" alt="snake animation" width="1000"/>
 </p>
 
