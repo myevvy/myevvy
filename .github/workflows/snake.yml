@@ -28,7 +28,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           # Seu nome de usuário do GitHub
-          github_user_name: ${{ github.repository_owner }}
+          github_myevvy: ${{ github.repository_owner }}
           
           # Lista de arquivos a serem gerados
           outputs: |
