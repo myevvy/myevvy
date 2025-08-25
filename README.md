@@ -15,7 +15,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/myevvy/myevvy/main/dist/github-contribution-grid-snake.svg" alt="github-snake">
-</p>
