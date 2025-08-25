@@ -1,9 +1,17 @@
+# Nome do Workflow
 name: Generate Snake Animation
 
+# Gatilhos que iniciam o workflow
 on:
+  # Executa a cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
+  # Permite que você execute este workflow manualmente na aba "Actions" do GitHub
   workflow_dispatch:
+
+# Permissões necessárias para que o workflow possa fazer commit no seu repositório
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -11,13 +19,26 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      # 1. Faz o checkout do seu repositório para que o workflow possa acessá-lo
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
+      # 2. Gera a animação da cobra a partir do seu gráfico de contribuições
       - name: Generate Snake Animation
-        uses: platane/snk@v2
+        uses: Platane/snk@v3
         with:
+          # Seu nome de usuário do GitHub
           github_user_name: ${{ github.repository_owner }}
+          
+          # Lista de arquivos a serem gerados
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
+
+      # 3. Faz o commit dos arquivos gerados e envia para o repositório
+      - name: Commit and Push new files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update snake animation files"
+          file_pattern: dist/*.{svg,gif}
