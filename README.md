@@ -1,8 +1,6 @@
 # Evelyn Aquiles | Dev
 
-<p style="font-size: 30px;" href="https://github.com/myevvy">
-  Confira meu portfólio aqui!
-</p>
+[<p style="font-size: 36px;">Confira meu portfólio aqui!</p>](https://github.com/myevvy)
 
 <p style="font-size: 22px;">
   Estudante de tecnologia Front-End e Ui/Ux Designer. Apaixonada por criar interfaces intuitivas e experiências de usuário envolventes. Atualmente cursando Análise e Desenvolvimento de Sistemas e explorando as últimas tendências em design e desenvolvimento web.
