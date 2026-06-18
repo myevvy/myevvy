@@ -1,5 +1,4 @@
 # Evelyn Aquiles | Dev
-
 <p style="font-size: 22px;">
   Estudante de tecnologia Front-End e Ui/Ux Designer. Apaixonada por criar interfaces intuitivas e experiências de usuário envolventes. Atualmente cursando Análise e Desenvolvimento de Sistemas e explorando as últimas tendências em design e desenvolvimento web.
 </p>
@@ -17,4 +16,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50"/>
 </p>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA4anB3MmNjZm1oYTVxeXAzdzFscjdxbGJ1ZWhtMHJjbWM5eWJzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Cat" width="200" height="200"/>
