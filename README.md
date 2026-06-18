@@ -4,8 +4,7 @@
 </p>
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/myevvy.-discord)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.behance.net/evelynsilva80)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/evelynsilva80)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelyn-aquiles-4b94b5390/)
 
 [![Evelyn's GitHub stats-Dracula!](https://github-readme-stats.vercel.app/api?username=myevvy&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/myevvy/github-readme-stats#gh-dark-mode-only)
 
