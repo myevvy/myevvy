@@ -1,6 +1,6 @@
 # Evelyn Aquiles | Dev
 <p style="font-size: 22px;">
-  Estudante de tecnologia Front-End e Ui/Ux Designer. Apaixonada por criar interfaces intuitivas e experiências de usuário envolventes. Atualmente cursando Análise e Desenvolvimento de Sistemas e explorando as últimas tendências em design e desenvolvimento web.
+  Estudante de tecnologia e desenvolvimento de software multiplataforma.
 </p>
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/myevvy.-discord)
